@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://free-game-top-ups.github.io/Free-Fire-Diamonds/sitemap.xml
